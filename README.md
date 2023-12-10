@@ -1,15 +1,17 @@
-# Fylo-template Preview :
+# Restaurant Website Preview :
 
-https://6566002a3b334b082e9c100b--incandescent-arithmetic-51e841.netlify.app/
+https://6575cefd648ed7331817723f--starlit-palmier-c83cd3.netlify.app/
 
-<img src="./image.png"> <br>
+<img src="./image_.png"> <br>
 
 # Tools
 
 - html <br>
 - tailwind css <br>
 - react.js <br>
+- react hooks <br>
 - react icons <br>
+- react scroll <br>
 
 # Features
 
