@@ -15,4 +15,4 @@ https://6575cefd648ed7331817723f--starlit-palmier-c83cd3.netlify.app/
 
 # Features
 
-- Fylo-template website fully responsive<br>
+- Responsive Restaurant Website Using React JS And Tailwind CSS
